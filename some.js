@@ -1,4 +1,4 @@
-//------- Método .some --------
+//------- Método some --------
 /*Itera el array y retorna un booleano si como mínimo uno de los elementos del array pasa una condicion  determinada */
 
 const meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio"];
